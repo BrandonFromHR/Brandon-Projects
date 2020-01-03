@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://i.redd.it/9lliw89xxa841.jpg)
 ```
 
+![Image](https://i.redd.it/9lliw89xxa841.jpg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
