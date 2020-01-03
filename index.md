@@ -1,3 +1,13 @@
+# 3D Printed Arduino Rover Project
+
+![Image](https://im2.ezgif.com/tmp/ezgif-2-2edca319f64e.gif)
+![Image](https://im2.ezgif.com/tmp/ezgif-2-a3165b663f61.gif)
+![Image](https://drive.google.com/open?id=14Rvk3nKAaSKY7sp-A1n_4AUbLedQMRdc)
+![Image](https://drive.google.com/open?id=14S3J21wmFQ5uSkOyrP1JO1XWXAjHFrGi)
+![Image](https://drive.google.com/open?id=13lSxokJ_FZ1d0Kc5qwClwoIpWcyDBFnz)
+![Image](https://drive.google.com/open?id=13kHUEnSXVRuWHchnDlcTpeA0wbMTEm5d)
+![Image](https://drive.google.com/open?id=1uvCiJQH5X3uxq6AZ6KMGtWBpajFH0VzQ)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BrandonFromHR/arduino_rover/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,9 +36,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://i.redd.it/9lliw89xxa841.jpg)
 ```
 
-![Image](https://im2.ezgif.com/tmp/ezgif-2-2edca319f64e.gif)
 
-<video src="https://drive.google.com/open?id=1-H2F7_v8liqBAg8wXfNgvp0qpX1t_4ja" width="320" height="200" controls preload></video>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
