@@ -1,8 +1,8 @@
 # 3D Printed Arduino Rover Project
 
 ## 3D print timelapses from December 2019
-![Image](https://im2.ezgif.com/tmp/ezgif-2-2edca319f64e.gif)
-![Image](https://im2.ezgif.com/tmp/ezgif-2-a3165b663f61.gif)
+![Image](https://imgur.com/tMusxxK)
+![Image](https://imgur.com/AHw776C)
 
 ## Pictures from December 2019
 ![Image](Assembly December 2019 v9.png)
