@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://i.redd.it/9lliw89xxa841.jpg)
 ```
 
-![Image](https://i.redd.it/9lliw89xxa841.jpg)
+![Image](https://im2.ezgif.com/tmp/ezgif-2-2edca319f64e.gif)
 
 <video src="https://drive.google.com/open?id=1-H2F7_v8liqBAg8wXfNgvp0qpX1t_4ja" width="320" height="200" controls preload></video>
 
