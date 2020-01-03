@@ -28,7 +28,11 @@ Syntax highlighted code block
 
 ![Image](https://i.redd.it/9lliw89xxa841.jpg)
 ![Image](https://github.com/BrandonFromHR/arduino_rover/blob/master/3x_rvr_mob_motor_mount_0.2mm_ASA_MK3S_7hr_7m_20191228001456.mp4)
+
 ![Video](https://github.com/BrandonFromHR/arduino_rover/blob/master/3x_rvr_mob_motor_mount_0.2mm_ASA_MK3S_7hr_7m_20191228001456.mp4)
+
+<video src="https://github.com/BrandonFromHR/arduino_rover/blob/master/3x_rvr_mob_motor_mount_0.2mm_ASA_MK3S_7hr_7m_20191228001456.mp4" width="320" height="200" controls preload></video>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
