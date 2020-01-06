@@ -1,8 +1,8 @@
 # 3D Printed Arduino Rover Project
 
 ## 3D print timelapses from December 2019
-![Image](https://thumbs.gfycat.com/FreshSoreFishingcat-mobile.mp4)
-![Image](https://thumbs.gfycat.com/IllinformedFabulousFinwhale-mobile.mp4)
+<iframe src="https://giphy.com/embed/USs3zfmjgtTSIVOs8Z" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/USs3zfmjgtTSIVOs8Z">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/USs3zfmjgtTSIVOs8Z" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/USs3zfmjgtTSIVOs8Z">via GIPHY</a></p>
 
 ## Pictures from December 2019
 ![Image](Assembly December 2019 v9.png)
