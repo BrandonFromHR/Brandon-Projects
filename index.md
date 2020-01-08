@@ -1,6 +1,8 @@
 # 3D Printed Arduino Rover Project
 
 ## 3D print timelapses from January 2020
+<iframe src="https://giphy.com/embed/j3nBfI55rta3PTU4oi" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j3nBfI55rta3PTU4oi">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XBubGuu9Q5351YPY6j" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XBubGuu9Q5351YPY6j">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/JpS6J3BygAjSKsUs1J" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JpS6J3BygAjSKsUs1J">via GIPHY</a></p>
 
 ## 3D print timelapses from December 2019
