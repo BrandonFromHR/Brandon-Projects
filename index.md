@@ -2,7 +2,7 @@
 
 ## 3D print timelapses from January 2020
 ### First successful tire. Made of NINJAFLEX
-<iframe src="https://giphy.com/embed/gKNfcxjXC3zx1pa01F" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gKNfcxjXC3zx1pa01F">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/gKNfcxjXC3zx1pa01F" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Mobility hub
 <iframe src="https://giphy.com/embed/j3nBfI55rta3PTU4oi" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j3nBfI55rta3PTU4oi">via GIPHY</a></p>
 ### Drive motor mounts
