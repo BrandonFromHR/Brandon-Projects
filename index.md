@@ -1,4 +1,4 @@
-# 3D Printed Arduino Rover Project
+# 3D PRINTED ARDUINO ROVER PROJECT
 
 ## 3D print timelapses from January 2020
 ### First successful tire. Made of NINJAFLEX
