@@ -18,6 +18,8 @@
 
 ## Pictures from December 2019
 ### Wheels have a spiraled spoke design similar to MER
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
 ![Image](IMG_20200101_071252.jpg) | ![Image](IMG_20200101_200339.jpg)
 ### Size comparison to my first rover
 ![Image](IMG_20191227_183701.jpg) | ![Image](IMG_20191227_183734.jpg)
