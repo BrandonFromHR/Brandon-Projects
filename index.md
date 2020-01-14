@@ -1,6 +1,6 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
-### If you feel like donating to the project, it would be greatly appreciated. If not enjoy all of the pictures and timelapses. I will be updating this site regularly.
+### If you feel like donating to the project, it would be greatly appreciated. If not enjoy all of the pictures and timelapses. The site will be updated regularly.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="75KGASXHSWN5C" />
