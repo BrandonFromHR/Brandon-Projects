@@ -1,11 +1,10 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
-.
 ## Pictures from January 2020
 ### First fresh set of tires installed
 ![Image](IMG_20200113_163630.jpg)
 ![Image](IMG_20200113_163840.jpg)
-
+.
 ## 3D print timelapses from January 2020
 ### First successful tire. Made of NINJAFLEX
 <iframe src="https://giphy.com/embed/gKNfcxjXC3zx1pa01F" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -15,13 +14,13 @@
 <iframe src="https://giphy.com/embed/XBubGuu9Q5351YPY6j" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Rear mobility arm
 <iframe src="https://giphy.com/embed/JpS6J3BygAjSKsUs1J" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+.
 ## 3D print timelapses from December 2019
 ### Rim
 <iframe src="https://giphy.com/embed/USs3zfmjgtTSIVOs8Z" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Rim mounts
 <iframe src="https://giphy.com/embed/fWrD8k0yxPMyoSrpLK" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fWrD8k0yxPMyoSrpLK">via GIPHY</a></p>
-
+.
 ## Pictures from December 2019
 ### Wheels have a spiraled spoke design similar to MER
 ![Image](IMG_20200101_071252.jpg) ![Image](IMG_20200101_200339.jpg)
