@@ -1,4 +1,12 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
+.
+.
+## Pictures from January 2020
+![Image](IMG_20200113_163532.jpg)
+![Image](IMG_20200113_163540.jpg)
+![Image](IMG_20200113_163550.jpg)
+![Image](IMG_20200113_163630.jpg)
+![Image](IMG_20200113_163840.jpg)
 
 ## 3D print timelapses from January 2020
 ### First successful tire. Made of NINJAFLEX
