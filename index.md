@@ -1,11 +1,17 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
 ## Pictures from January 2020
+## State of the CAD assembly as of late January 2020
+![Image](Assembly_December_2019_2020-Jan-22_09-26-06PM-000_CustomizedView13120086004_png.png)
 ### First fresh set of tires installed
 ![Image](IMG_20200113_163630.jpg)
 ![Image](IMG_20200113_163840.jpg)
 .
 ## 3D print timelapses from January 2020
+### Differential bar
+<iframe src="https://giphy.com/embed/YRcTnL8hbE6Wi8lrla" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+### Center belly chassis plate
+<iframe src="https://giphy.com/embed/Kx8tmRcTgeUY38PBqj" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### First successful tire. Made of NINJAFLEX
 <iframe src="https://giphy.com/embed/gKNfcxjXC3zx1pa01F" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Mobility hub
