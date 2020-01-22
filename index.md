@@ -9,9 +9,9 @@
 .
 ## 3D print timelapses from January 2020
 ### Differential bar
-<iframe src="https://giphy.com/embed/YRcTnL8hbE6Wi8lrla" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/YRcTnL8hbE6Wi8lrla" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Center belly chassis plate
-<iframe src="https://giphy.com/embed/Kx8tmRcTgeUY38PBqj" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/Kx8tmRcTgeUY38PBqj" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### First successful tire. Made of NINJAFLEX
 <iframe src="https://giphy.com/embed/gKNfcxjXC3zx1pa01F" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ### Mobility hub
