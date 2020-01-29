@@ -1,6 +1,7 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
 ## First motion. January 28th 2020
+In need of some serious alignment but all 4 steering servos are working as expected.
 <iframe src="https://drive.google.com/file/d/1EWGRO3_IIOmERbgHRsVMHJXDeMzIxA6N/preview" width="800" height="1000"></iframe>
 
 ## Pictures from January 2020
