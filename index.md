@@ -1,5 +1,8 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
+## First motion. January 28th 2020
+<iframe src="https://drive.google.com/file/d/1EWGRO3_IIOmERbgHRsVMHJXDeMzIxA6N/preview" width="450" height="800"></iframe>
+
 ## Pictures from January 2020
 ## State of the CAD assembly as of late January 2020
 ![Image](Assembly_December_2019_2020-Jan-22_09-26-06PM-000_CustomizedView13120086004_png.png)
