@@ -1,6 +1,7 @@
 # 3D PRINTED ARDUINO ROVER PROJECT
 .
-## Aligned the steering motors and began installing drive motor wiring.
+## January 31st 2020
+Aligned the steering motors and began installing drive motor wiring.
 <iframe src="https://drive.google.com/file/d/1EsZe-lBlXJXbMxcJrXsoYAsPmhmVbe_7/preview" width="1000" height="563"></iframe>
 
 ## First motion. January 28th 2020
