@@ -3,7 +3,9 @@
 ## March 2020
 Progress on the rover has slowed because of school and printer issues. The rover went for its first drive in February. Printing more parts for the chassis of the rover shown below.
 <iframe src="https://giphy.com/embed/SYuG36EMcUCUHkllVi" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
 <iframe src="https://giphy.com/embed/ibXj5c1A8sYR2sMLv1" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
 
 ## January 31st 2020
 Aligned the steering motors and began installing drive motor wiring.
