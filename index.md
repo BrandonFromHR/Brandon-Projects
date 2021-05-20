@@ -1,4 +1,7 @@
-# 3D PRINTED ARDUINO ROVER PROJECT
+## 3D Printed Harmonic Drive V3 design pictures
+I have been working on several different harmonic drive designs over the past couple of years. The other versions had too much resistance for the rotor to turn properly. This design should allow for less restrictive movement. We will see!
+![Image](Harmonic Drive V3.png)
+
 .
 ## March 2020
 Progress on the rover has slowed because of school and printer issues. The rover went for its first drive in February. Printing more parts for the chassis of the rover shown below.
