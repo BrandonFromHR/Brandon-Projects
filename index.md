@@ -1,4 +1,4 @@
-## May 2021- 3D Printed Harmonic Drive V3 design
+## May 2021 - 3D Printed Harmonic Drive V3 design
 I have been working on several different harmonic drive designs over the past couple of years. The other versions had too much resistance for the rotor to turn properly. This design should allow for less restrictive movement. They are designed to work with a NEMA 17 stepper motor. If the drive is finctional it will be used in a future robotic arm design.
 ![Image](Harmonic Drive V3.png)
 
