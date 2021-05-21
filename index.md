@@ -2,14 +2,6 @@
 I have been working on several different harmonic drive designs over the past couple of years. The other versions had too much resistance for the rotor to turn properly. This design should allow for less restrictive movement. They are designed to work with a NEMA 17 stepper motor. If the drive is finctional it will be used in a future robotic arm design.
 ![Image](Harmonic Drive V3.png)
 <iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="1" allowfullscreen></iframe>
-<iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1&frameborder=0"></iframe>
-
-<object type="application/x-shockwave-flash" style="width:1000px; height:563px;" data="//www.youtube.com/v/VDZYHR1wAiQ?color2=FBE9EC&amp;rel=0&amp;loop=1&amp;playlist=VDZYHR1wAiQ&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1">
-        <param name="movie" value="//www.youtube.com/v/VDZYHR1wAiQ?color2=FBE9EC&amp;rel=0&amp;loop=1&amp;playlist=VDZYHR1wAiQ&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" />
-        <param name="allowFullScreen" value="true" />
-        <param name="allowscriptaccess" value="always" />
-        </object><div style="font-size: 0.8em"><a href="https://www.tools4noobs.com/online_tools/youtube_xhtml/">Get your own valid XHTML YouTube embed code</a></div>
-
 
 ## March 2020
 Progress on the rover has slowed because of school and printer issues. The rover went for its first drive in February. Printing more parts for the chassis of the rover shown below.
