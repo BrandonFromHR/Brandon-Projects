@@ -3,8 +3,6 @@ I have been working on several different harmonic drive designs over the past co
 ![Image](Harmonic Drive V3.png)
 <iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="1" allowfullscreen></iframe>
 
-<iframe src="https://giphy.com/embed/GLdZTsB4kgNAQLZbCE" width="800" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GLdZTsB4kgNAQLZbCE">via GIPHY</a></p>
-
 ## March 2020
 Progress on the rover has slowed because of school and printer issues. The rover went for its first drive in February. Printing more parts for the chassis of the rover shown below.
 <iframe src="https://giphy.com/embed/SYuG36EMcUCUHkllVi" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen>
