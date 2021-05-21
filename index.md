@@ -2,8 +2,8 @@
 I have been working on several different harmonic drive designs over the past couple of years. The other versions had too much resistance for the rotor to turn properly. This design should allow for less restrictive movement. They are designed to work with a NEMA 17 stepper motor. If the drive is finctional it will be used in a future robotic arm design.
 ![Image](Harmonic Drive V3.png)
 <iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1"></iframe>
-.
+<iframe width="1000" height="563" src="https://www.youtube.com/embed/VDZYHR1wAiQ?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1&frameborder=0"></iframe>
+
 ## March 2020
 Progress on the rover has slowed because of school and printer issues. The rover went for its first drive in February. Printing more parts for the chassis of the rover shown below.
 <iframe src="https://giphy.com/embed/SYuG36EMcUCUHkllVi" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen>
